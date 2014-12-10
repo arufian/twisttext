@@ -1,0 +1,32 @@
+{
+  "name": "twisttext",
+  "version": "0.1.0",
+  "description": "Twist your text. Use it with command line or add it as a module.",
+  "main": "index.js",
+  "bin": "./bin/index.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/arufian/twisttext.git"
+  },
+  "keywords": [
+    "twist",
+    "flip",
+    "string",
+    "text"
+  ],
+  "author": "Alfian Busyro <arufian@httlabs.io> (http://www.httlabs.io)",
+  "license": "MIT",  
+  "bugs": {
+    "url": "https://github.com/arufian/twisttext/issues"
+  },
+  "dependencies": {
+    "minimist": "1.1.0"
+  },
+  "devDependencies": {
+    "chai": "^1.10.0",
+    "mocha": "^2.0.1"
+  }
+}
