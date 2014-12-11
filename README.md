@@ -3,6 +3,10 @@ Twisttext
 
 Twist your text. Use it as command line or add it as a module.
 
+[![NPM info](https://nodei.co/npm/twisttext.png?downloads=true)](https://nodei.co/npm/twisttext.png?downloads=true)
+[![Travis build status](https://travis-ci.org/arufian/twisttext.png?branch=master)](https://travis-ci.org/arufian/twisttext)
+[![dependencies](https://david-dm.org/arufian/twisttext.png)](https://david-dm.org/arufian/twisttext)
+
 ## Installation
 
 ### global
