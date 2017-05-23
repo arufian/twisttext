@@ -1,6 +1,8 @@
 Twisttext
 =========
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/arufian/twisttext.svg)](https://greenkeeper.io/)
+
 Twist your text. Use it as command line or add it as a module.
 
 [![NPM info](https://nodei.co/npm/twisttext.png?downloads=true)](https://nodei.co/npm/twisttext.png?downloads=true)
